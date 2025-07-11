@@ -1,29 +1,7 @@
-# .
+설치 방법: 
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+1. chrome://extensions/ 
+2. Developer mode (개발자 모드) 활성화
+3. 좌측상단 Load unpacked 클릭
+4. 프로젝트 폴더 내 dist 폴더 선택
+5. 새로 설치된 확장자 사용.
